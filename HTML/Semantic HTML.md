@@ -46,6 +46,8 @@ Introduction of HTML5 (2014):
   sections, reducing coding errors and
   improving collaboration across teams.
 
+---
+
 **References or related articles:**
 
 1. https://developer.mozilla.org/en-US/docs/Glossary/Semantics
