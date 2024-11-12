@@ -1,4 +1,4 @@
-## How to Handle Asynchronous Operations Using Async/Await over Callbacks and Promises in TypeScript
+## How to Handle Asynchronous Operations
 
 In TypeScript, we have multiple ways to handle asynchronous operations: callbacks, promises, and async/await. Asynchronous programming allows us to manage operations that could take time, like fetching data from an API, without blocking the execution of other code.
 
