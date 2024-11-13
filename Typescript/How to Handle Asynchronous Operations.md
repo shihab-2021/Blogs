@@ -89,3 +89,7 @@ console.log(getTodo());
 
 - Improved readability: Async/await is more readable and easier to follow, especially for complex code with multiple asynchronous calls.
 - Error handling: It allows for simpler error handling with try/catch blocks, instead of multiple .catch() methods.
+
+---
+
+**_Thank You_**
