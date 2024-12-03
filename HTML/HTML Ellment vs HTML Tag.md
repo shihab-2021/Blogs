@@ -38,7 +38,7 @@ An HTML element refers to the entire structure, which includes the tags, content
     - Optional attributes.
     - Content (if applicable).
     - An end tag (if applicable).
-- Some elements, like `<img>` or `<br>`, are self-closing and do not require an end tag.
+- Some elements, like ***<img>*** or ***<br>***, are self-closing and do not require an end tag.
 
 ## Comparing HTML Tags and HTML Elements
 
@@ -52,7 +52,7 @@ Here’s a clear example to help you understand the difference:
     - **<h1>**: The start tag.
     - **</h1>**: The end tag.
 - HTML Element:
-    - The complete structure: ``<h1>Hello World</h1>``.
+    - The complete structure: ***<h1>Hello World</h1>***.
     - Includes the tags and the content: "Hello World."
 
 ---
@@ -67,7 +67,7 @@ Here’s a clear example to help you understand the difference:
 - Using the correct terminology improves collaboration with other developers.
 
 ### Conclusion
-- HTML Tag: A syntax that defines an element, enclosed in ``< >``.
+- HTML Tag: A syntax that defines an element, enclosed in ***< >***.
 - HTML Element: The complete structure, which includes tags, content, and attributes.
 
 ---
