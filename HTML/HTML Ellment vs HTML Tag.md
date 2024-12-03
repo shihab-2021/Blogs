@@ -6,7 +6,7 @@ When working with HTML, developers often come across the terms "HTML Tag" and "H
 ---
 
 ## What is an HTML Tag?  
-An HTML **tag** is the syntax used to define an element in HTML. Tags are enclosed in angle brackets (< >) and consist of a **start tag** and, in most cases, an **end tag**.  
+An HTML **tag** is the syntax used to define an element in HTML. Tags are enclosed in angle brackets (\< >) and consist of a **start tag** and, in most cases, an **end tag**.  
 
 ### Structure:  
 ```html
@@ -38,7 +38,7 @@ An HTML element refers to the entire structure, which includes the tags, content
     - Optional attributes.
     - Content (if applicable).
     - An end tag (if applicable).
-- Some elements, like ***<img>*** or ***<br>***, are self-closing and do not require an end tag.
+- Some elements, like ***\<img>*** or ***\<br>***, are self-closing and do not require an end tag.
 
 ## Comparing HTML Tags and HTML Elements
 
@@ -49,10 +49,10 @@ Here’s a clear example to help you understand the difference:
 ```
 
 - HTML Tag:
-    - **<h1>**: The start tag.
-    - **</h1>**: The end tag.
+    - **\<h1>**: The start tag.
+    - **\</h1>**: The end tag.
 - HTML Element:
-    - The complete structure: ***<h1>Hello World</h1>***.
+    - The complete structure: ***\<h1>Hello World\</h1>***.
     - Includes the tags and the content: "Hello World."
 
 ---
@@ -67,7 +67,7 @@ Here’s a clear example to help you understand the difference:
 - Using the correct terminology improves collaboration with other developers.
 
 ### Conclusion
-- HTML Tag: A syntax that defines an element, enclosed in ***< >***.
+- HTML Tag: A syntax that defines an element, enclosed in ***\< >***.
 - HTML Element: The complete structure, which includes tags, content, and attributes.
 
 ---
